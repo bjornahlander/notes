@@ -13,6 +13,7 @@ Unit tests in xUnit style
  * Method executes test
  * Set up conotext and reset context
  * Assertion
+
 Maybe use them as specification och class invariants, preconditions and
 postconditions, Design by Contract.
 Regression test suite is a colleciton of unit tests and has the purpose of
@@ -23,7 +24,8 @@ Incremental by nature
 A description of a fine-grain functionality as seen by its users
 Described by the triple `{ category of user, goal, benefit }`.
 > **As a** staff member, **I want to** cancel a bookin **so that** reasonable
-> requests for policy exceptions can be accomodated
+> requests for policy exceptions can be accomodatedi.
+
 We need to define a refactor or a stack change as a user story otherwise it's
 not customer driven.
 Problems can occur with user stories not them selves taking effort into account
