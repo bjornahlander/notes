@@ -54,11 +54,67 @@ system).
 
 ### Extreme programming
 **Big idea:** Increment then simplify.
+
 Add functionality (with tests), when it works look for reduced simplicity and
 apply refactoring to it. Cycle it. Extreme in the sense of taking common-sense
 principles and practices to the extreme.
 
+Key **techniques** in XP
+ * Short iterations
+ * Pair Programming
+ * User stories
+ * Refactoring
+ * Open Workspace
+ * Collective code ownerships
+ * Continous integration
+ * Test-first (TDD)
+
+Strenghs of XP is the consistency and strong oppinon in how programming should
+be practiced
+
+### Scrum
+**Big Idea:** Freeze requirements during short iterations.
+
+How should we handle change? Accept changes without letting them disrupt the
+current iteration.
+
+Key practices include
+ * Sprint planning in the beginning
+ * Closed-window rule, requirements can changed in a controlled way
+ * User stories decomposed in tasks
+ * Daily Scrum to track progres and isolate impediments
+ * Definition of DOne
+ * Task board and burndown charts to assess velocity
+ * Sprint review
+
+### Crystal
+**Big idea:** Osmotic communication 
+
+Q and As flow naturally and with little disturbance within the team.
+
+Crystals 7 principles are:
+
+**Frequent delivery** as in all agile methods
+
+**Reflective improvement** in reflection workshop or iteration retrospective
+
+**Osmotic communication** in order to avoid impediments and costs due to bad
+communication within teams.
+
+**Personal safety** in the sense that people should be able to speak up without
+fear of reprisal.
+
+**Focus** refers to developers working unimpedimented. This involves not being
+asked to perform many tasks at once, handle side tasks not relevant to the
+project goals, cope woth frequent interuptions etc
+
+**Early access to expert users** is refering to customer involvement, but in
+a more realistic way. Maybe one hour a week?
+
+**Technical environment with automated tests, configuration management and
+frequent integration** ...self explanatory
 
 
-
+Crystal is morea concentrate of software development wisdom than step by step
+guide. Whats unique about Crystal is it's avoidance of dogmatism.
 
