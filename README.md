@@ -1,2 +1,4 @@
 ## Notes
-General notes for a bunch of different purposes. It's all in the folders..
+General notes for a bunch of different purposes.
+Currently this contains notes on...
+ * Agile Development
